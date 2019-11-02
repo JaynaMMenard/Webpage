@@ -3,12 +3,15 @@ body {
     background: url("assets/kohein.png");
     background-size: cover;
     font-family: helvetica, arial, sans-serif;
-    margin: 2em;
+    margin: 15em;
     color: #ffffff;
   }
   
   h1 {
     font-style: italic;
     color: #ffffff;
+    font-size: 50px ;
+
   }
+
   
