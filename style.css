@@ -5,13 +5,34 @@ body {
     font-family: helvetica, arial, sans-serif;
     margin: 15em;
     color: #ffffff;
+    font-size: 30px;
   }
   
   h1 {
     font-style: italic;
     color: #ffffff;
-    font-size: 50px ;
+    font-size: 70px ;
 
   }
+.main{
+  position: relative;
+  margin-top: 5em;
+  margin-left: 20em;
+}
+
+.left{
+  color: yellow;
+}
+.right{
+  width: 46vw;
+
+}
+img{
+  height: 800px;
+}
+  /*display: flex;
+ justify-content: space-around;
+ height: 70vh;
+
 
   
