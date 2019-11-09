@@ -1,8 +1,10 @@
 # Webpage
 
-- Webpage Saturday Workshop
+
+
 
 IMPROVEMENTS NEEDED
+- Webpage Saturday Workshop, 1st week
 - Fix layout using preference, FlexBox.
 - Add links to git when GIF is clicked
 - Credit Kohei Nawa - images
